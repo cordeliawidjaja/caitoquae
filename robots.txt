@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ootoidahfu.dianya.com/sitemap.xml
